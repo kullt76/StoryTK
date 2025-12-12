@@ -1,0 +1,1 @@
+Öffnen einer Datei in der Git Bash in Windows mit: code <dateiname>
