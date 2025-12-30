@@ -1,3 +1,5 @@
 To see the current status of git-controlled files: git status
 
 Und auch hier soll die Änderung nur in der Branch "neues_features_tk" sichtbar sein
+
+Jetzt nehme ich eine Änderung an dieser Datei vor, die Parallel in einer anderen Branch verändert wurde.
