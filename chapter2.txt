@@ -1,1 +1,3 @@
 To see the current status of git-controlled files: git status
+
+Und auch hier soll die Änderung nur in der Branch "neues_features_tk" sichtbar sein

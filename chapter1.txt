@@ -1,2 +1,4 @@
 Öffnen einer Datei in der Git Bash in Windows mit: code <dateiname>
 Das ist eine zweite, neu hinzugefügt Zeile
+
+Diese Änderung entsteht in der neuen Branch: "neues_features_tk"
