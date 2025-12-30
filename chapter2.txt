@@ -1,3 +1,5 @@
 To see the current status of git-controlled files: git status
 
 Und auch hier soll die Änderung nur in der Branch "neues_features_tk" sichtbar sein
+
+Jetzt ändere ich chapter2.txt in der branch: neues_features_tk um 08:15

@@ -1,2 +1,5 @@
 In Kapitel 1 steht jetzt alter Text
 Neu hinzugefügter Text zu Kapitel 1
+
+Nun eine Änderung an Kapitel 1 um das besser transparent zu machen
+Jetzt ändere ich die Anmerkung in der Main Branch
