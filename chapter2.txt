@@ -1,0 +1,1 @@
+To see the current status of git-controlled files: git status
